@@ -7,7 +7,8 @@
 
 ***
 
-# dmj.one | *where Dreams unite, Manifest, and Journey as ONE*
+# dmj.one — *where Dreams unite, Manifest, and Journey as ONE*
+
 
 A place where your dreams are nurtured, your efforts manifested, and your journey amplified. At dmj.one, we unite dreamers, creators, and learners, turning your aspirations into collective success through educational empowerment.
 
