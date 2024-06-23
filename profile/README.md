@@ -7,7 +7,7 @@
 
 ***
 
-<div align="center" width="100%"><h1>————— dmj.one —————<br><br><i style="font-weight:normal !important">where Dreams unite, Manifest, and Journey as ONE</i></h1></div>
+<div align="center" width="100%" id="md_logomottosection"><img src="https://cdn.dmj.one/logo.png" width="150" height="150"><h1>————— dmj.one —————<br><br><i style="font-weight:normal !important">where Dreams unite, Manifest, and Journey as ONE</i></h1></div>
 
 
 A place where your dreams are nurtured, your efforts manifested, and your journey amplified. At dmj.one, we unite dreamers, creators, and learners, turning your aspirations into collective success through educational empowerment.
