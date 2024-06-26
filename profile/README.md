@@ -1,12 +1,27 @@
 <!--Code Efficiency: [![CodeFactor](https://www.codefactor.io/repository/github/dmjone/dmjone/badge)](https://www.codefactor.io/repository/github/dmjone/dmjone)-->
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fdmj.one&style=for-the-badge&logo=internetarchive&label=https%3A%2F%2Fdmj.one)  ![GitHub last commit](https://img.shields.io/github/last-commit/dmjone/dmjone?style=for-the-badge&label=last%20updated&logo=github)
+<!-- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdmj.one&style=for-the-badge&logo=internetarchive&label=https%3A%2F%2Fdmj.one)  ![GitHub last commit](https://img.shields.io/github/last-commit/dmjone/dmjone?style=for-the-badge&label=last%20updated&logo=github)
 
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/dmjone/dmjone?style=for-the-badge&label=CodeFactor%20Efficiency&logo=codefactor)  ![GitHub repo size](https://img.shields.io/github/repo-size/dmjone/dmjone?style=for-the-badge&label=code%20size&logo=cloudflare)  ![GitHub language count](https://img.shields.io/github/languages/count/dmjone/dmjone?style=for-the-badge&label=top/total%20language&logo=html5) 
 
-![GitHub Created At](https://img.shields.io/github/created-at/divyamohan1993/divyamohan1993.github.io?style=for-the-badge&logo=windowsterminal&label=live%20since&color=gold)  ![GitHub Created At](https://img.shields.io/github/created-at/dmjone/dmjone?style=for-the-badge&label=transferred%20here&logo=github)  ![Initiative Started](https://img.shields.io/badge/initiative%20started-april%202007-auto?style=for-the-badge&color=darkred)
+![GitHub Created At](https://img.shields.io/github/created-at/divyamohan1993/divyamohan1993.github.io?style=for-the-badge&logo=windowsterminal&label=live%20since&color=gold)  ![GitHub Created At](https://img.shields.io/github/created-at/dmjone/dmjone?style=for-the-badge&label=transferred%20here&logo=github)  ![Initiative Started](https://img.shields.io/badge/initiative%20started-april%202007-auto?style=for-the-badge&color=darkred) -->
 
-***
-
+<div align="center" width="100%">
+   <p>
+     <img src="https://img.shields.io/badge/initiative%20started-april%202007-auto?style=for-the-badge&color=darkred">
+      <a href="https://github.com/divyamohan1993/divyamohan1993.github.io"><img src="https://img.shields.io/github/created-at/divyamohan1993/divyamohan1993.github.io?style=for-the-badge&logo=windowsterminal&label=live%20since&color=gold" alt="GitHub Created At"></a>
+     <img src="https://img.shields.io/github/created-at/dmjone/dmjone?style=for-the-badge&label=transferred%20here&logo=github" alt="Transferred Here">     
+</p>   
+   <p>
+     <img src="https://img.shields.io/codefactor/grade/github/dmjone/dmjone?style=for-the-badge&label=CodeFactor%20Efficiency&logo=codefactor" alt="CodeFactor Grade">
+     <img src="https://img.shields.io/github/repo-size/dmjone/dmjone?style=for-the-badge&label=code%20size&logo=cloudflare" alt="GitHub repo size"> 
+     <img src="https://img.shields.io/github/languages/count/dmjone/dmjone?style=for-the-badge&label=top/total%20language&logo=html5" alt="GitHub language count">
+   </p>
+   <p>
+     <a href="https://dmj.one"><img src="https://img.shields.io/website?url=https%3A%2F%2Fdmj.one&style=for-the-badge&logo=internetarchive&label=https%3A%2F%2Fdmj.one" alt="Website"></a> 
+     <a href="https://github.com/dmjone/dmjone/"><img src="https://img.shields.io/github/last-commit/dmjone/dmjone?style=for-the-badge&label=last%20updated&logo=github" alt="GitHub last commit"></a>
+   </p>
+   <br>
+</div>
 <div align="center" width="100%" id="md_logomottosection"><img src="https://cdn.dmj.one/logo.png" width="150" height="150" alt="dmj.one logo"><h1>————— dmj.one —————<br><br><i style="font-weight:normal !important">where Dreams unite, Manifest, and Journey as ONE</i></h1></div>
 
 
