@@ -9,7 +9,7 @@
    <p>
      <img src="https://img.shields.io/badge/initiative%20started-april%202007-auto?style=for-the-badge&color=darkred">
       <a href="https://github.com/divyamohan1993/divyamohan1993.github.io"><img src="https://img.shields.io/github/created-at/divyamohan1993/divyamohan1993.github.io?style=for-the-badge&logo=windowsterminal&label=live%20since&color=gold" alt="GitHub Created At"></a>
-     <img src="https://img.shields.io/github/created-at/dmjone/dmjone?style=for-the-badge&label=transferred%20here&logo=github" alt="Transferred Here">     
+     <img src="https://img.shields.io/github/created-at/dmjone/dmjone.github.io?style=for-the-badge&label=transferred%20here&logo=github" alt="Transferred Here">     
 </p>   
    <p>
      <img src="https://img.shields.io/codefactor/grade/github/dmjone/dmjone?style=for-the-badge&label=CodeFactor%20Efficiency&logo=codefactor" alt="CodeFactor Grade">
